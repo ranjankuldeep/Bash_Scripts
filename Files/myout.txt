@@ -1,0 +1,6 @@
+total 12
+-rw-rw-r-- 1 homepc homepc 36 Oct  6 20:58 first_script.sh
+-rw-rw-r-- 1 homepc homepc  0 Oct  7 10:32 myout.txt
+-rw-rw-r-- 1 homepc homepc 61 Oct  7 10:31 redirection.sh
+-rw-rw-r-- 1 homepc homepc 47 Oct  6 21:00 source.sh
+Hello world

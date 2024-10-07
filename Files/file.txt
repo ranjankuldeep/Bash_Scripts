@@ -1,0 +1,9 @@
+total 28
+-rw-rw-r-- 1 homepc homepc   0 Oct  7 11:00 file.txt
+-rw-rw-r-- 1 homepc homepc  36 Oct  6 20:58 first_script.sh
+-rw-rw-r-- 1 homepc homepc 244 Oct  7 10:32 myout.txt
+-rw-rw-r-- 1 homepc homepc  61 Oct  7 10:31 redirection.sh
+-rw-rw-r-- 1 homepc homepc  47 Oct  6 21:00 source.sh
+-rw-rw-r-- 1 homepc homepc 181 Oct  7 10:49 stdio.sh
+-rw-rw-r-- 1 homepc homepc 195 Oct  7 10:59 stdout.sh
+-rw-rw-r-- 1 homepc homepc  24 Oct  7 11:00 stdout_single.sh
